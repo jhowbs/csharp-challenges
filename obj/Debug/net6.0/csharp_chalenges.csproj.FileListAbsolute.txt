@@ -1,0 +1,15 @@
+/Users/user/git/csharp_chalenges/bin/Debug/net6.0/csharp_chalenges
+/Users/user/git/csharp_chalenges/bin/Debug/net6.0/csharp_chalenges.deps.json
+/Users/user/git/csharp_chalenges/bin/Debug/net6.0/csharp_chalenges.runtimeconfig.json
+/Users/user/git/csharp_chalenges/bin/Debug/net6.0/csharp_chalenges.dll
+/Users/user/git/csharp_chalenges/bin/Debug/net6.0/csharp_chalenges.pdb
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.csproj.AssemblyReference.cache
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.AssemblyInfoInputs.cache
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.AssemblyInfo.cs
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.csproj.CoreCompileInputs.cache
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.dll
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/refint/csharp_chalenges.dll
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.pdb
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/csharp_chalenges.genruntimeconfig.cache
+/Users/user/git/csharp_chalenges/obj/Debug/net6.0/ref/csharp_chalenges.dll
